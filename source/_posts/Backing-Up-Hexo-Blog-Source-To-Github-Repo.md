@@ -4,6 +4,9 @@ date: 2016-03-12 14:06:41
 tags:
 ---
 
+## Notice
+I have ran into a few issues with having hexo on my desktop and laptop. One thing to note is that Hexo's environment (aka the hexo blog folder) containes a few dependencies and files that could conflict between the two environments. First thing to note is _config.yml. When creating a new hexo blog on your second machine, hexo init will generate a default _config.yml. It's important to copy your github source _config.yml to your desktop and then overwrite it in your hexo folder. Secondly, add package.json to .gitignore before your first push to github repo. The two environments will clash with merging conflicts if this file is placed there. -from laptop
+
 Since documentation doesn't really cover this, I thought I'd just make note of this. If you want to prevent your Hexo blog for disappearing off the face of the planet, don't keep it in one place. In my case, I've had Octopress blogs die because my Octopress source went MIA when my SSD died. Since I also spend most my time on my desktop, having Hexo only on my laptop would be inconveniant. Time to break things.
 
 ``` bash
