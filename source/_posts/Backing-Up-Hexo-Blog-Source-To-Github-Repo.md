@@ -62,3 +62,7 @@ $ hexo deploy
 ```
 
 Everything should deploy fine, check your github page to see if it's broken. It might take a second to update. Worse comes to worse, it's broken and you can just redeploy from your first workstation, or in my case my laptop. Now it's time to see if I can push my local source and get this writeup to update on my laptop without exploding...
+
+# Merging Conflicts...
+
+Things are exploding... putting package.json in .gitignore... -update from laptop
