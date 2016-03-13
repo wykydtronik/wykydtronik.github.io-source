@@ -66,3 +66,5 @@ Everything should deploy fine, check your github page to see if it's broken. It 
 # Merging Conflicts...
 
 Things are exploding... putting package.json in .gitignore... -update from laptop
+
+I keep running into issues with package.json... First I noticed that package.json has a few conflicts between the two environments with versions / dependancies. I removed it from the repo and added it to .gitignore. Now when I pulled from laptop and desktop it would delete the local package.json. Perhaps from the very beginning I should have added package.json to the .gitignore folder.
