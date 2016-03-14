@@ -1,7 +1,7 @@
 ---
 title: I Give Up On Octopress
 date: 2016-03-12 11:55:05
-tags:
+tags: Hexo, OctoPress
 ---
 ![Octopress is Dead](http://i.imgur.com/ONtGUem.png)
 
