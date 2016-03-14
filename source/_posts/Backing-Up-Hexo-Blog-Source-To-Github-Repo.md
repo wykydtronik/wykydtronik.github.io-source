@@ -5,7 +5,7 @@ tags: Hexo
 ---
 
 ## Notice
-I have ran into a few issues with having hexo on my desktop and laptop. One thing to note is that Hexo's environment (aka the hexo blog folder) containes a few dependencies and files that could conflict between the two environments. First thing to note is _config.yml. When creating a new hexo blog on your second machine, hexo init will generate a default _config.yml. It's important to copy your github source _config.yml to your desktop and then overwrite it in your hexo folder. Secondly, add package.json to .gitignore before your first push to github repo. The two environments will clash with merging conflicts if this file is placed there. -from laptop
+I have ran into a few issues with having hexo on my desktop and laptop. One thing to note is that Hexo's environment (aka the hexo blog folder) containes a few dependencies and files that could conflict between the two environments. First thing to note is _config.yml. When creating a new hexo blog on your second machine, hexo init will generate a default _config.yml. It's important to copy your github source _config.yml to your desktop and then overwrite it in your hexo folder. Secondly, add package.json to .gitignore before your first push to github repo. The two environments will clash with merging conflicts if this file is placed there. -from laptop FUCK
 
 # Overview
 
@@ -59,7 +59,7 @@ $ git clone git@github.com:kaichi/kaichi.github.io-source.git
 
 ## Copy _config.yml To Desktop
 
-After cloning your hexo blog source, cut _config.yml and paste it to your desktop. We will need this later. Backup package.json if you want, it will get overwritten. You will need to install your dependencies in the next few steps to setup the hexo environment. 
+After cloning your hexo blog source, cut _config.yml and paste it to your desktop. We will need this later. Backup package.json if you want, it will get overwritten. You will need to install your dependencies in the next few steps to setup the hexo environment.
 
 ## Hexo Init & Install Hexo Deployer Git
 
@@ -82,7 +82,7 @@ Don't forget about the --save flag, I completely derped out and couldn't deploy 
 
 ## final deployment testing
 
-Now you should be able to generate and deploy your hexo blog. Keep in mind, I am using Git Shell specifically because I don't want to juggle and mess with ssh keys. 
+Now you should be able to generate and deploy your hexo blog. Keep in mind, I am using Git Shell specifically because I don't want to juggle and mess with ssh keys.
 
 ``` bash
 $ hexo generate
