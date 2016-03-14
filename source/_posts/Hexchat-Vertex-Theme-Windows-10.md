@@ -12,4 +12,6 @@ Indeed it does, I jumped into the documentation and found Vertex. I fell in love
 
 After setting Hexchat's gtk2 theme, I had a white title bar across the top of the window (see above image) it was blinding me in my dark dingy den. I had to figure out a way to fix this. Thankfully, [HowToGeek provides documentation on how to fix that!](http://www.howtogeek.com/222831/how-to-get-colored-window-title-bars-on-windows-10-instead-of-white/)
 
+Additional I noticed that unfocused windows default to the white title bars. This can be adjusted in regex, [link to documentation here:]()http://www.ghacks.net/2015/11/29/change-the-color-of-inactive-windows-in-windows-10/
+
 ![Windows 10 White Title Bar Blinds Me](http://i.imgur.com/0S1G2H7.png)
