@@ -34,7 +34,7 @@ $ git clone git@github.com:kaichi/kaichi.github.io-source.git
 ```
 
 ## Backup .git and _config.yml to Desktop
-Cut .git and _config.yml to a save place to prevent hexo init from removing / overwriting.
+Cut and paste both .git and _config.yml to a safe place, because hexo init will removing / overwriting these critical assets.
 
 ## Initiate Hexo
 Assuming that git, node.js, and hexo are installed on your new workstation, proceed.
