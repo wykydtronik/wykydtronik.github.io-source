@@ -1,7 +1,7 @@
 ---
 title: Hexchat Vertex Theme Windows 10
 date: 2016-03-13 23:48:43
-tags: IRC
+tags: [IRC,Hexchat]
 ---
 ![Hexchat Dark Theme](http://i.imgur.com/rBb7Ud2.png)
 Today I was exploring other IRC clients for Windows because frankly IRC clients on Windows look like relics of ancient past. One of my all time favorite IRC clients hands down goes to Textual, an OSX based application. Unfortunately I don't have the luxury of blowing 2 grand on a Macbook Bro. I can hardly fathom dropping $1200 on a peasant book air. All bashing aside, I actually love OSX it's just the hardware that makes my wallet cringe...

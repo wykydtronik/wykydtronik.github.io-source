@@ -1,11 +1,15 @@
 ---
 title: Backing Up Hexo Blog Source To Github Repo
 date: 2016-03-12 14:06:41
-tags: Hexo
+categories: docs
+tags: [Hexo, Github]
 ---
 
 ## Notice
-I have ran into a few issues with having hexo on my desktop and laptop. One thing to note is that Hexo's environment (aka the hexo blog folder) containes a few dependencies and files that could conflict between the two environments. First thing to note is _config.yml. When creating a new hexo blog on your second machine, hexo init will generate a default _config.yml. It's important to copy your github source _config.yml to your desktop and then overwrite it in your hexo folder. Secondly, add package.json to .gitignore before your first push to github repo. The two environments will clash with merging conflicts if this file is placed there. -from laptop FUCK
+I have ran into a few issues with having hexo on my desktop and laptop. One thing to note is that Hexo's environment (aka the hexo blog folder) containes a few dependencies and files that could conflict between the two environments. First thing to note is _config.yml. When creating a new hexo blog on your second machine, hexo init will generate a default _config.yml. It's important to copy your github source _config.yml to your desktop and then overwrite it in your hexo folder. Secondly, add package.json to .gitignore before your first push to github repo. The two environments will clash with merging conflicts if this file is placed there. -from laptop
+
+## update
+This post is now outdated, it was merely a place I could write notes while exploring how to have hexo in two places at once. Finalized notes on [how to redeploy hexo onto another workstation can be found here.](http://kaichi.github.io/2016/03/14/Redeploying-Hexo-via-Github-Redeploying/)
 
 # Overview
 

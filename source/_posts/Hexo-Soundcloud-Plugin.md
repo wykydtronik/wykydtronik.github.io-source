@@ -1,7 +1,7 @@
 ---
 title: Hexo Soundcloud Plugin
 date: 2016-03-13 18:27:10
-tags: SoundCloud
+tags: [Soundcloud]
 ---
 I was wondering how Hexo handled embeds, I'd like to post an occasional Soundcloud tune and found [hexo-soundcloud](https://github.com/andrewboni/hexo-soundcloud) by Andrew Boni
 
