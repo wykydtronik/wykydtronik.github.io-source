@@ -1,9 +1,9 @@
 ---
 title: Redeploying Hexo via Github Redeploying
 date: 2016-03-14 01:41:03
-tags: IRC, Hexi, Github
+categories: docs
+tags: [IRC,Hexchat,Hexo]
 ---
-# Redeploying Hexo via Github Redeploying
 This is a basic overview on how to redeploy the Hexo environment from source placed on Github. Assuming you've backed up your Hexo source.
 
 ## .gitignore
