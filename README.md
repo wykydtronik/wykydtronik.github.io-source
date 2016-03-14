@@ -3,12 +3,14 @@
 This is the source for kaichi.github.io - nothing special, just based on Hexo - an OctoPress alternative.
 
 ### Join the #Hexo IRC channel!
-Find us on freenode! Signup for an IRCCloud.com account and join #Hexo on Freenode! Or try Hexchat (Windows/OSX/Linux) or Textual (OSX)
+![hexo irc channel](http://i.imgur.com/0S1G2H7.png)
+
+Find us on Freenode! Try a native client like Hexchat (Windows/OSX/Linux) or Textual (OSX) or register up for IRCCloud.com!
 
 ```bash
 /server irc.freenode.net
 /join #hexo
-``` 
+```
 
 # Redeploying Hexo via Github Redeploying
 This is a basic overview on how to redeploy the Hexo environment from source placed on Github. Assuming you've backed up your Hexo source.
