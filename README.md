@@ -2,6 +2,11 @@
 
 This is the source for kaichi.github.io - nothing special, just based on Hexo - an OctoPress alternative.
 
+## Installed packages
+hexo-soundcloud
+hexo-admin
+hexo-deployer-git
+
 ### Join the #Hexo IRC channel!
 ![hexo irc channel](http://i.imgur.com/0S1G2H7.png)
 
