@@ -50,13 +50,13 @@
                 <div class="tips-box hide">
                     <div class="tips-arrow"></div>
                     <ul class="tips-inner">
-                        <li>nav</li>
-                        <li>links</li>
+                        <li><%= __('tips.menu') %></li>
+                        <li><%= __('tips.label') %></li>
                         <%if(theme.friends && theme.friends.length != 0){%>
-                        <li>friends</li>
+                        <li><%= __('tips.friends') %></li>
                         <%}%>
                         <%if(theme.aboutme){%>
-                        <li>about</li>
+                        <li><%= __('tips.aboutme') %></li>
                         <%}%>
                     </ul>
                 </div>

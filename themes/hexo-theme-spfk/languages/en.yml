@@ -54,3 +54,32 @@ state:
   pages: pages
   tags: tags
   categories: categories
+  
+copyright:
+  title: Title
+  author: Author
+  postdate: Publish Date
+  lastedited: Last Updated
+  permalink: Permalink
+  license: License
+  
+shareon:
+  weibo: Share On Weibo
+  qq: Share To Friends On QQ
+  link: Copy URL
+  email: Email Link
+  weixin: Weixin
+  
+share:
+  weibo: Weibo
+  weixin: Weixin
+  qq: QQ
+  facebook: Facebook
+  twitter: Twitter
+  linkedin: LinkedIn
+  
+tips:
+  menu: Menu
+  label: Labels
+  friends: Friends
+  aboutme: About Me 

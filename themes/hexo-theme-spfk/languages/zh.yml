@@ -55,3 +55,33 @@ state:
   pages: 页面
   tags: 标签
   categories: 分类
+  
+copyright:
+  title: 本文标题
+  author: 文章作者
+  postdate: 发布时间
+  lastedited: 最后更新
+  permalink: 原始链接
+  license: 许可协议
+  
+shareon:
+  weibo: 分享到新浪微博
+  qq: 分享给 QQ 好友
+  link: 复制网址
+  email: 通过邮件分享
+  weixin: 生成文章二维码
+
+share:
+  weibo: 分享到新浪微博
+  weixin: 分享到微信
+  qq: 分享到QQ好友
+  facebook: 分享到Facebook
+  twitter: 分享到Twitter
+  linkedin: 分享到linkedin
+  
+tips:
+  menu: 菜单
+  label: 标签
+  friends: 友情链接
+  aboutme: 关于我
+
