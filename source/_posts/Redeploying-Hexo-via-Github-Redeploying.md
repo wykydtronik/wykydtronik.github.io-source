@@ -1,5 +1,5 @@
 ---
-title: Redeploying Hexo via Github Redeploying
+title: Redeploying Hexo via Github Repository
 date: 2016-03-14 01:41:03
 categories: docs
 tags: [IRC,Hexchat,Hexo]
