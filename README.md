@@ -6,6 +6,8 @@ This is the source for kaichi.github.io - nothing special, just based on Hexo - 
 hexo-soundcloud
 hexo-admin
 hexo-deployer-git
+hexo-tag-bootstrap
+hexo-tag-fontawesome
 
 ### Join the #Hexo IRC channel!
 ![hexo irc channel](http://i.imgur.com/0S1G2H7.png)
