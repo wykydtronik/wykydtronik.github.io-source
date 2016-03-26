@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: kaichi.conf
+title: tronik.conf
 subtitle: coffee to code
 description:
-author: kaichi.conf
+author: tronik.conf
 language: en
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://kaichi.github.io
+url: http://wykydtronik.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -65,11 +65,11 @@ pagination_dir: page
 ## Themes: https://hexo.io/themes/
 theme: hexo-theme-spfk
 
-plugins: 
+plugins:
   hexo-soundcloud
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:kaichi/kaichi.github.io.git
+  repo: git@github.com:wykydtronik/wykydtronik.github.io.git
