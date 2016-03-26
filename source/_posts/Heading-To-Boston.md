@@ -9,27 +9,27 @@ Next week I'm heading to the Boston headquarters of Mendix to do Advance Trainin
 
 The Mendix Advanced Training course curriculum is listed below.
 
-# Advanced Domain Modeling
+## Advanced Domain Modeling
 * Inheritance
 * Indexes
 * Virtual attributes
 * Performance
 
-# XPath
+## XPath
 * XPath essentials
 * XPath practice
 * XPath best practices
 
-# Security
+## Security
 * Advanced security
 * Anonymous users
 * Security & performance
 
-# Advanced Page Modeling
+## Advanced Page Modeling
 * Page performance
 * Best practices
 
-# Advanced Microflow Modeling
+## Advanced Microflow Modeling
 * Microflow expressions
 * Error handling
 * Memory management & batches
