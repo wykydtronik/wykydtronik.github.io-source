@@ -2,6 +2,7 @@
 navbar_brand: false
 menu:
   Home: index.html
+  Docs: docs
   About: about
   Archives: archives/
 rss: /atom.xml
