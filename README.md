@@ -4,7 +4,6 @@ This is the source for kaichi.github.io - nothing special, just based on Hexo - 
 
 ## Installed packages
 hexo-soundcloud
-hexo-admin
 hexo-deployer-git
 hexo-tag-bootstrap
 hexo-tag-fontawesome
