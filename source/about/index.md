@@ -3,4 +3,5 @@ title: about
 date: 2016-03-12 14:33:44
 ---
 ![Hexo Blogging Platform With AWS](http://i.imgur.com/UyY1vO3.png)
-I enjoy tinkering with the full stack. My employer brought me in to low level data entry and SEO and it soon got busy. From websites to server side technical support, to expanding towards a scalable hosting platform. We've mainly stuck with Linux based OS's such as uBuntu, CentOS, Redhat, Amazon AMI, Fedora, etc. Hosting and developing custom websites on WHM or AWS. HTML5, CSS3, PHP, Javascript, and custom Ruby and Java scripts.
+
+Hello Universe! I am from Seattle WA. I never really tinker on Github. I work mostly on websites. SEO, CentOS, AWS, PHP/MySQL.
