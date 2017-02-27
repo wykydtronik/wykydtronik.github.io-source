@@ -36,7 +36,7 @@ package.json
 ## Clone A Local Copy
 ```bash
 $ cd ~/github/
-$ git clone git@github.com:kaichi/kaichi.github.io-source.git
+$ git clone git@github.com:wykydtronik/wykydtronik.github.io-source.git
 ```
 
 ## Backup .git and _config.yml to Desktop
@@ -45,14 +45,14 @@ Cut and paste both .git and _config.yml to a safe place, because hexo init will 
 ## Initiate Hexo
 Assuming that git, node.js, and hexo are installed on your new workstation, proceed.
 ```bash
-$ cd kaichi.github.io-source
+$ cd wykydtronik.github.io-source
 $ hexo init
 ```
 ## Install Dependencies / Plugins
 Below is examples of my setup.
 ``` bash
 $ npm install hexo-deployer-git --save
-$ npm install hexo-soundcloud -- save
+$ npm install hexo-soundcloud --save
 ```
 
 ## Copy .git and _config.yml to Hexo environment
