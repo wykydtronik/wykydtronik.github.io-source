@@ -25,4 +25,4 @@ function wpse207879_change_password_mail_message(
 }
 {% endcodeblock %}
 
-I will likely just throw this into a (Must Use plugin)[https://codex.wordpress.org/Must_Use_Plugins] just so that the message is covered across the network.
+I will likely just throw this into a [Must Use plugin](https://codex.wordpress.org/Must_Use_Plugins/ "dafuq") just so that the message is covered across the network.
