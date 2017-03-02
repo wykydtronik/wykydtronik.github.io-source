@@ -7,3 +7,4 @@ Here you will find links to posts referencing various documentation that I've wr
 * [Redeploying Hexo via Github Repository](/2016/03/14/Redeploying-Hexo-via-Github-Redeploying/)
 
 ## WordPress
+* [Change Password Email Notification](/2017/03/01/Change-Password-Email-Notification-On-WordPress/)

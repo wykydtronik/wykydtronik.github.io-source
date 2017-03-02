@@ -4,4 +4,6 @@ date: 2016-03-12 14:33:44
 ---
 ![Hexo Blogging Platform With AWS](http://i.imgur.com/UyY1vO3.png)
 
-Hello Universe! I am from Seattle WA. I never really tinker on Github. I work mostly on websites. SEO, CentOS, AWS, PHP/MySQL.
+Hello Universe! I am a photographer and web developer from Seattle WA. I meanly deal with  WordPress and DevOps. I never really tinker on Github, but this blog is my incentive to keep on working with it. I have a background in graphics design, multi media production, internet marketing, blackhat/whitehat/greyhat SEO, Linux, and AWS.
+
+Right now I am focusing on learning Javascript, which will add to my web skill sets. I'd like to spend more time with PHP/MySQL, Javascript and jQuery and create a few personal projects.
