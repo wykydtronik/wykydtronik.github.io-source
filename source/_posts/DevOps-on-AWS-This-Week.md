@@ -15,4 +15,4 @@ Yesterday evening, I didn't get a chance to play with JavaScript. However, I did
 
 {% youtube rJesac0_Ftw %}
 
-{& youtube rGObWtjxGBc &}
+{% youtube rGObWtjxGBc %}
